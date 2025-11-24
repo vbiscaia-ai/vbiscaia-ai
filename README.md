@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou <Victor Biscaia>
+# 👋 Olá! Eu sou Victor Biscaia
 
 🎯 **Analista de Dados em formação | Business Intelligence | SQL | Power BI**
 
