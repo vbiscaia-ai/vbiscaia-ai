@@ -27,7 +27,8 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 
 ## 🧰 Tecnologias que uso
 
-- 🟨 Power BI  
+- 🟨 Power BI
+- 🟨 Tableau
 - 🐘 SQL (MySQL / SQL Server)  
 - 🐍 Python  
 - ☁️ Azure / AWS  
