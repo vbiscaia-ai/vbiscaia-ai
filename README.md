@@ -19,7 +19,7 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 - **Tableau:**  DAX, KPIs, dashboards interativos, storytelling
 - **SQL:** SELECT, JOIN, GROUP BY, filtros, agregações, CRUD  
 - **ETL:** Integração, limpeza e transformação de dados  
-- **Python:** Pandas, NumPy, Jupyter (em evolução)  
+- **Python:** Pandas (tratamento de dados)
 - **Cloud:** Azure (prática em Bootcamp), AWS (conceitos)  
 - **Versionamento:** Git + GitHub  
 
