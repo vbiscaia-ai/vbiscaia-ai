@@ -38,24 +38,6 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 
 ### 📂 Projetos em Destaque
 
-## 🔍 Análise de Fraudes em Estornos
-Identificação de padrões suspeitos em transações de estorno, com foco em comportamento atípico e risco operacional.
-• Construção de métricas de risco em SQL
-• Análise exploratória e segmentação de perfis
-• Dashboard em Power BI para monitoramento e priorização de casos
-
-## 🚨 Alarmes Operacionais — Data Insights
-Projeto voltado ao diagnóstico de eventos críticos em ambiente industrial.
-• Tratamento e estruturação de eventos de alarme
-• Identificação de padrões de recorrência e criticidade
-• Desenvolvimento de dashboards executivos para suporte à tomada de decisão
-
-## 🛒 Analytics Master Plan — Varejo
-Análise estratégica com foco em performance comercial e campanhas.
-• Diagnóstico de KPIs de vendas e comportamento de consumo
-• Avaliação de campanhas sazonais e impacto no faturamento
-• Análises com SQL, Python e Tableau para geração de insights acionáveis
-
 ## 🔍 Confiabilidade Industrial — Data Insights
 Análise orientada à identificação de gargalos operacionais e priorização de ativos críticos.
 • Estruturação do ciclo de vida das falhas (início → fim)
@@ -63,6 +45,32 @@ Análise orientada à identificação de gargalos operacionais e priorização d
 • Cálculo de métricas de confiabilidade: MTTR, MTBF e disponibilidade
 • Aplicação da Curva de Pareto para identificação de concentração de impacto
 • Dashboard em Power BI para análise executiva
+
+https://github.com/vbiscaia-ai/Analise_de_Confiabilidade_Industrial
+
+## 🚨 Alarmes Operacionais — Data Insights
+Projeto voltado ao diagnóstico de eventos críticos em ambiente industrial.
+• Tratamento e estruturação de eventos de alarme
+• Identificação de padrões de recorrência e criticidade
+• Desenvolvimento de dashboards executivos para suporte à tomada de decisão
+
+https://github.com/vbiscaia-ai/Alarmes_Operacionais
+
+## 🔍 Análise de Fraudes em Estornos
+Identificação de padrões suspeitos em transações de estorno, com foco em comportamento atípico e risco operacional.
+• Construção de métricas de risco em SQL
+• Análise exploratória e segmentação de perfis
+• Dashboard em Power BI para monitoramento e priorização de casos
+
+https://github.com/vbiscaia-ai?tab=repositories
+
+## 🛒 Analytics Master Plan — Varejo
+Análise estratégica com foco em performance comercial e campanhas.
+• Diagnóstico de KPIs de vendas e comportamento de consumo
+• Avaliação de campanhas sazonais e impacto no faturamento
+• Análises com SQL, Python e Tableau para geração de insights acionáveis
+https://github.com/vbiscaia-ai/Analytics_Master_Plan_Varejo
+
 
 ## 📈 Certificações e Formação
 
