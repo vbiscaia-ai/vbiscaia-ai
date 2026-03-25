@@ -38,38 +38,17 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 
 ### 📂 Projetos em Destaque
 
-## 🔍 Confiabilidade Industrial — Data Insights
-Análise orientada à identificação de gargalos operacionais e priorização de ativos críticos.
-• Estruturação do ciclo de vida das falhas (início → fim)
-• Modelagem em SQL com uso de CTEs e window functions
-• Cálculo de métricas de confiabilidade: MTTR, MTBF e disponibilidade
-• Aplicação da Curva de Pareto para identificação de concentração de impacto
-• Dashboard em Power BI para análise executiva
+#### 🏭 Indústria 4.0 & Confiabilidade
+* **[Análise de Confiabilidade Industrial](https://github.com/vbiscaia-ai/Analise_de_Confiabilidade_Industrial)**: Otimização de disponibilidade de ativos utilizando MTTR, MTBF e Curva de Pareto. (Destaque no Bootcamp Klabin/DIO).
+* **[Monitoramento de Alarmes Operacionais](https://github.com/vbiscaia-ai/Industrial-Alarm-Monitoring-Python)**: Primeiro projeto utilizando Python para análise de logs e identificação de falhas críticas.
 
-https://github.com/vbiscaia-ai/Analise_de_Confiabilidade_Industrial
+#### 💰 Comercial & Business Intelligence
+* **[Smart Plan Performance](https://github.com/vbiscaia-ai/Smart_Plan_Campaign_Performance)**: Análise de performance comercial, CRM e sazonalidade de campanhas focada em margem e ticket médio.
 
-## 🚨 Alarmes Operacionais — Data Insights
-Projeto voltado ao diagnóstico de eventos críticos em ambiente industrial.
-• Tratamento e estruturação de eventos de alarme
-• Identificação de padrões de recorrência e criticidade
-• Desenvolvimento de dashboards executivos para suporte à tomada de decisão
+#### 🛡️ Financeiro & Detecção de Fraudes
+* **[Análise de Detecção de Fraudes](https://github.com/vbiscaia-ai/Credit_Card_Fraud_Detection)**: Aplicação de lógica analítica e limpeza de dados para identificação de padrões suspeitos em transações financeiras.
 
-https://github.com/vbiscaia-ai/Alarmes_Operacionais
-
-## 🔍 Análise de Fraudes em Estornos
-Identificação de padrões suspeitos em transações de estorno, com foco em comportamento atípico e risco operacional.
-• Construção de métricas de risco em SQL
-• Análise exploratória e segmentação de perfis
-• Dashboard em Power BI para monitoramento e priorização de casos
-
-https://github.com/vbiscaia-ai?tab=repositories
-
-## 🛒 Analytics Master Plan — Varejo
-Análise estratégica com foco em performance comercial e campanhas.
-• Diagnóstico de KPIs de vendas e comportamento de consumo
-• Avaliação de campanhas sazonais e impacto no faturamento
-• Análises com SQL, Python e Tableau para geração de insights acionáveis
-https://github.com/vbiscaia-ai/Analytics_Master_Plan_Varejo
+---
 
 
 ## 📈 Certificações e Formação
