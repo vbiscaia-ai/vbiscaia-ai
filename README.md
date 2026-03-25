@@ -36,27 +36,33 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 
 ---
 
-## 📂 Projetos em Destaque
+### 📂 Projetos em Destaque
 
-### 1️⃣ Projeto Final Power BI — Bootcamp Klabin
-- **Objetivo:** Dashboard com indicadores operacionais e insights estratégicos  
-- **Ações:** Estruturei ETL, modelagem de dados e storytelling executivo  
-- **Impacto:** Facilita a tomada de decisão e análise de performance  
-- **Tecnologias:** SQL, Power Query, Power BI  
-- 🔗 [Ver projeto](https://github.com/vbiscaia-ai/Bootcamp_PowerBI_Klabin_DIO/tree/main/10_PowerBI_LucrosDataAnalytics)
+## 🔍 Análise de Fraudes em Estornos
+Identificação de padrões suspeitos em transações de estorno, com foco em comportamento atípico e risco operacional.
+• Construção de métricas de risco em SQL
+• Análise exploratória e segmentação de perfis
+• Dashboard em Power BI para monitoramento e priorização de casos
 
-### 2️⃣ SQL — Consultas e Modelagem
-- **Objetivo:** Desenvolvimento de scripts SQL para análises exploratórias e manipulação de dados  
-- **Ações:** Criei joins complexos, filtros, agregações e exercícios de lógica  
-- **Impacto:** Base sólida para dashboards e análises de dados  
-- **Tecnologias:** MySQL, SQL Server  
-- 🔗 [Ver repositório](https://github.com/vbiscaia-ai/Bootcamp_PowerBI_Klabin_DIO/tree/main/02_SQL_DbOficina)
+## 🚨 Alarmes Operacionais — Data Insights
+Projeto voltado ao diagnóstico de eventos críticos em ambiente industrial.
+• Tratamento e estruturação de eventos de alarme
+• Identificação de padrões de recorrência e criticidade
+• Desenvolvimento de dashboards executivos para suporte à tomada de decisão
 
-### 3️⃣ Projetos complementares
-- **Análise de Fraudes em Estornos:** Identificação de padrões suspeitos e criação de métricas de risco (SQL + Power BI)  
-- **Alarme Operacionais — Data Insights:** Diagnóstico de eventos críticos, planejamento de ações e dashboards executivos (Power BI + SQL)
-- **Analytics_Master_Plan_Varejo:** Diagnóstico de Campanhas, KPIs e Portfólio | SQL • Python • Tableau
----
+## 🛒 Analytics Master Plan — Varejo
+Análise estratégica com foco em performance comercial e campanhas.
+• Diagnóstico de KPIs de vendas e comportamento de consumo
+• Avaliação de campanhas sazonais e impacto no faturamento
+• Análises com SQL, Python e Tableau para geração de insights acionáveis
+
+## 🔍 Confiabilidade Industrial — Data Insights
+Análise orientada à identificação de gargalos operacionais e priorização de ativos críticos.
+• Estruturação do ciclo de vida das falhas (início → fim)
+• Modelagem em SQL com uso de CTEs e window functions
+• Cálculo de métricas de confiabilidade: MTTR, MTBF e disponibilidade
+• Aplicação da Curva de Pareto para identificação de concentração de impacto
+• Dashboard em Power BI para análise executiva
 
 ## 📈 Certificações e Formação
 
@@ -70,8 +76,8 @@ Sou movido por **desafios, análise crítica e soluções orientadas a dados**.
 
 Busco oportunidades como:
 
-- Analista de Dados Júnior  
-- BI Analyst Júnior  
+- Analista de Dados 
+- BI Analyst 
 - Data Analytics (Remoto ou Híbrido)  
 - Interesse especial: setor industrial, logística, manufatura e energia — áreas com alto volume de dados, IoT e KPIs operacionais  
 
