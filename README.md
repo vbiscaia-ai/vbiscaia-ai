@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Victor Biscaia
 
-🎯 Analista de Dados em formação | Business Intelligence | SQL | Power BI
+## 🎯 Analista de Dados em formação | Business Intelligence | SQL | Power BI
 
 Sou um profissional em transição de carreira, focado em **transformar dados em insights acionáveis** que gerem valor real para negócios. Concluí recentemente o **Bootcamp DIO × Klabin - Ciência de Dados & Analytics**, desenvolvendo projetos práticos em:
 
